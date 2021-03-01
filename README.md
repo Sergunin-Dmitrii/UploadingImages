@@ -1,6 +1,6 @@
 # UploadingImages
 # Introduction 
-This is a small project (API) that takes the image of the POST method.
+API project to save images.
 
 #  
-To test it, log in as rootuser with the rootuser password
+To test it, log in as rootuser with the rootuser password.
